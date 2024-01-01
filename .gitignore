@@ -1,0 +1,5 @@
+*.json
+authenticate.py
+*.geojson
+*.pyc
+*.gpkg
